@@ -5,8 +5,8 @@
 <h1>osTicket Lifecycle</h1>
 In this tutorial, we will be going over the lifecycle of a ticket from creation to closing in osTicket. This tutorial has prerequisites that must be completed before continuing which will be linked below. </p>
 
-- [osTicket: Prerequisites and Installation](https://github.com/bvongpradith/osticket-prereqs)
-- [osTicket: Post-Installation Configuration](https://github.com/bvongpradith/osticket--post)
+- [osTicket: Prerequisites and Installation](https://github.com/BroderickSession/osticket-prereqs)
+- [osTicket: Post-Installation Configuration]
 
 <h2>Environments and Technologies Used</h2>
 
